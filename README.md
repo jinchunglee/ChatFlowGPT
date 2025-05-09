@@ -2,6 +2,9 @@
 
 **ChatFlowGPT** is a multi-model local chat interface powered by [Ollama](https://ollama.com/), featuring a dynamic **visual conversation flowchart**. Each message is represented as a node in a branching tree — allowing you to backtrack, explore alternative paths, and visually track your thoughts.
 
+🎥 Watch a demo on YouTube: [ChatFlowGPT - Visual AI Chat Interface](https://youtu.be/UyNDPLykpk0)
+
+
 ---
 
 ## ✨ Features
